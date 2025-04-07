@@ -1,0 +1,22 @@
+<svg width="0" height="0" class="hidden">
+  <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" id="down">
+    <g id="down">
+      <path id="Vector" d="M24 31.8L12 19.8L14.8 17L24 26.2L33.2 17L36 19.8L24 31.8Z" fill="currentColor"></path>
+    </g>
+  </symbol>
+  <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" id="left">
+    <g id="left">
+      <path id="Vector" d="M28 36L16 24L28 12L30.8 14.8L21.6 24L30.8 33.2L28 36Z" fill="currentColor"></path>
+    </g>
+  </symbol>
+  <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" id="right">
+    <g id="right">
+      <path id="Vector" d="M26.2 24L17 14.8L19.8 12L31.8 24L19.8 36L17 33.2L26.2 24Z" fill="currentColor"></path>
+    </g>
+  </symbol>
+  <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" id="up">
+    <g id="up">
+      <path id="Vector" d="M24 21.6L14.8 30.8L12 28L24 16L36 28L33.2 30.8L24 21.6Z" fill="currentColor"></path>
+    </g>
+  </symbol>
+</svg>
