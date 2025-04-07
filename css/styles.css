@@ -231,6 +231,11 @@
     --wc-color-icon-brand-on-brand: var(--wc-color-blue-900);
     --wc-color-icon-accent-inverted-secondary: var(--wc-color-green-400);
   }
+
+  footer {
+    --wc-color-text-brand-on-brand: var(--wc-color-blue-100);
+    --wc-color-icon-brand-on-brand: var(--wc-color-blue-100);
+  }
 }
 
 /* LIGHT AND DARK MODE USER OVERRIDE */
@@ -694,6 +699,7 @@ footer {
   background-color: var(--wc-color-surface-default-inverted-secondary);
   width: 100vw;
   align-self: center;
+  color: var(--wc-color-text-brand-on-brand);
 }
 
 .footer-content {
@@ -715,6 +721,10 @@ footer {
     display: flex;
     list-style-type: none;
     gap: var(--wc-size-space-800);
+
+    a {
+      color: var(--wc-color-text-brand-on-brand);
+    }
   }
 }
 
@@ -733,7 +743,7 @@ footer {
   display: flex;
   gap: var(--wc-size-space-600);
   a {
-    color: var(--wc-color-icon-default-default);
+    color: var(--wc-color-icon-brand-on-brand);
     text-decoration: none;
   }
 }
